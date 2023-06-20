@@ -1,3 +1,9 @@
+# dz-decomposition
+
+[![Build status](https://ci.appveyor.com/api/projects/status/eh8dm4cv53qd52i9?svg=true)](https://ci.appveyor.com/project/pvova21/dz-decomposition)
+
+## [GitHub Pages](https://pvova21.github.io/dz-decomposition/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
