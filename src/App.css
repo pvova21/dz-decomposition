@@ -1,0 +1,120 @@
+body {
+  width: 1080px;
+  margin: 0 auto;
+
+}
+
+h2 {
+  font-size: 1rem;
+}
+.top-block {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 10px;
+}
+
+h2 a {
+  margin-right: 5px;
+}
+.news {
+  width: 70%;
+}
+
+.news h2 {
+  display: inline;
+  margin-right: 5px;
+}
+
+.date {
+  font-size: 0.8rem;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.list-icon {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-color: #bbbbbb;
+  margin-right: 5px;
+}
+
+.top-right_banner img {
+  width: 120px;
+  height: 70px;
+}
+
+.info-blocks {
+  display: flex;
+}
+
+.search-block_container {
+  display: flex;
+  align-items: center;
+  /*margin: 2px;*/
+}
+
+.yandex-banner {
+  font-size: 2rem;
+  margin-right: 0.4rem;
+}
+
+.search {
+  margin-bottom: 10px;
+
+}
+
+.search-types_container {
+  padding-top: 1rem;
+}
+
+.search a {
+  margin-right: 10px;
+}
+
+.search .input-text {
+  width: 88%;
+}
+
+.search-hint, .search-sample {
+  font-size: 1rem;
+}
+
+.search-sample {
+  color: #808080;
+}
+
+.main-banner {
+  height: 60px;
+  width: 60%;
+  border: 1px solid;
+}
+
+.weather-container {
+  margin-bottom: 10px;
+}
+
+.weather-now {
+  display: flex;
+  align-items: center;
+}
+
+.weather-forcast {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.text {
+  color: #808080;
+}
+
+.tv h2 {
+  display: inline;
+}
