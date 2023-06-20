@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dz-decomposition/static/css/main.4dcd1ef3.css",
+    "main.js": "/dz-decomposition/static/js/main.c13a4d9e.js",
+    "static/js/787.cf4d0f49.chunk.js": "/dz-decomposition/static/js/787.cf4d0f49.chunk.js",
+    "index.html": "/dz-decomposition/index.html",
+    "main.4dcd1ef3.css.map": "/dz-decomposition/static/css/main.4dcd1ef3.css.map",
+    "main.c13a4d9e.js.map": "/dz-decomposition/static/js/main.c13a4d9e.js.map",
+    "787.cf4d0f49.chunk.js.map": "/dz-decomposition/static/js/787.cf4d0f49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dcd1ef3.css",
+    "static/js/main.c13a4d9e.js"
+  ]
+}
